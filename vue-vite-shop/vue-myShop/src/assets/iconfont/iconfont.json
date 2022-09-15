@@ -1,0 +1,23 @@
+{
+  "id": "3545036",
+  "name": "shop",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "30175723",
+      "name": "Chevron-down",
+      "font_class": "Chevron-down",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "30175724",
+      "name": "Chevron-up",
+      "font_class": "Chevron-up",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    }
+  ]
+}
